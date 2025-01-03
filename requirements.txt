@@ -1,0 +1,4 @@
+notebook==7.3.2
+pillow==11.1.0
+numpy==2.2.1
+matplotlib==3.10.0
